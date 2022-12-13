@@ -1,0 +1,50 @@
+{
+    "id": "name",
+    "plant": {
+        "name": "name",
+        "location": {
+            "lat": 0.000,
+            "lon": 0.000
+        },
+        "size": 0,
+        "phosphorus_eliminiation": true,
+        "phosphorus_precipitant": " ",
+        "precipitant_consumption": 0
+    },
+    "energy": {
+        "electricity_from_grid": 0.0,
+        "natural_gas_consumption": 0.0,
+        "fuel_oil_consumption": 0.0
+    },
+    "influent": {
+        "load": 0,
+        "wastewater_influent": 0,
+        "BOD": 0.0,
+        "COD": 0.0,
+        "NH4-N": 0.0,
+        "totN": 0.0,
+        "Ptot": 0.0
+    },
+    "effluent": {
+        "BOD": 0.0,
+        "COD": 0.0,
+        "NH4-N": 0.0,
+        "NO3-N": 0.0,
+        "NO2-N": 0.0,
+        "totN": 0.0,
+        "Ptot": 0.0
+    },
+    "sludge": {
+        "sludge": {
+            "volume": 0,
+            "dry_substance": 0.0
+        },
+        "screenings": 0.0,
+        "grit_chamber_trappings": 0.0
+    },
+    "disposal": {
+        "agriculture": 0.0,
+        "humification": 0.0,
+        "dewatering": 0.0   
+    }
+}
