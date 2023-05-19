@@ -1,5 +1,5 @@
-## LCAdata
-# Supplementary material to: data management in LCA - a wastewater case study
+# LCAdata
+## Supplementary material to: data management in LCA - a wastewater case study
 
 Examplary procedure to create LCI  
 
