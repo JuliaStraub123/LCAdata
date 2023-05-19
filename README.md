@@ -1,8 +1,7 @@
-# LCAdata
-data management in LCA  
-Examplary procedure to create LCI  
+## LCAdata
+# Supplementary material to: data management in LCA - a wastewater case study
 
-example database structure and source code to generate LCI and write into .xlsx file
+Examplary procedure to create LCI  
 
 1. Download all files from repository LCAdata: templ.xlsx, database.json, env.yml, source_code.ipynb and place them in one folder
 2. Open database.json (e.g. with Notepad) and write data into database
