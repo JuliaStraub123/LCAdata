@@ -1,13 +1,18 @@
 # LCAdata
 data management in LCA
 
-example database structure and source code to generate LCI
-Download templ.xlsx, database.json, env.yml, source_code.ipynb
-Write wwtp data into .json file
+example database structure and source code to generate LCI and write into xlsx file
 
-1. Install Anaconda - https://www.anaconda.com/download/
-2. Start Anaconda Navigator
-3. Import env.yml as Environment (Anaconda Navigator -> Environments -> Import)
-4. Open with Jupyter Notebook
-5. Browser: open source_code.ipynb
-6. Kernel > Restart and run all
+1. Download all files from repository LCAdata: templ.xlsx, database.json, env.yml, source_code.ipynb and place them in one folder
+2. Open database.json (e.g. with Notepad) and write data into database
+
+3. Run python code (source_code.ipynb)
+  a. Install Anaconda - https://www.anaconda.com/download/
+  b. Start Anaconda Navigator
+  c. Import env.yml as Environment (Anaconda Navigator -> Environments -> Import)
+  d. Open with Jupyter Notebook (opens in Browser=
+  e. Browser: open source_code.ipynb
+  f. Kernel > Restart and run all
+ 
+ 4. wastewater_treatment.xlsx with LCI data is now in your folder (see 1.)
+  
