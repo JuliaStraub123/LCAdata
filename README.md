@@ -1,5 +1,6 @@
 # LCAdata
-data management in LCA
+data management in LCA  
+Examplary procedure to create LCI  
 
 example database structure and source code to generate LCI and write into .xlsx file
 
